@@ -1,5 +1,5 @@
 Made this because I was bored lol.
 <br>
-Assets are from GameMaker.
+Assets are from a GameMaker tutorial
 <br>
 Not really a Rift Studio project
